@@ -1,0 +1,179 @@
+body{
+background-color: #fff2f1;
+text-align: middle;
+font-family: helvetica;
+color: #616161;
+}
+
+div.title{
+background-color: #fafbff;
+text-align: center;
+padding: 100px 100px 50px 100px;
+color: #616161;
+margin: auto;
+border-radius: 0px, 15px, 15px, 0px;
+}
+
+
+figure{
+
+}
+
+div.images{
+border: solid 10px white;
+position: relative;
+width: 80%;
+margin: auto;
+height: 950px;
+margin-top:100px;
+margin-bottom: 50px;
+}
+
+.landscape01{
+border:solid 8px #fafbff;
+border-radius: 10px;
+width: 45%;
+position: absolute;
+left: 0;
+top:0;
+}
+
+.landscape02{
+border:solid 8px #fafbff;
+border-radius: 10px;
+width: 45%;
+position: absolute;
+right: 0;
+top: 0px;
+}
+
+.landscape03{
+border:solid 8px #fafbff;
+border-radius: 10px;
+width: 45%;
+position: absolute;
+left: 0;
+bottom: 0;
+}
+
+.landscape04{
+border:solid 8px #fafbff;
+border-radius: 10px;
+width: 45%;
+position: absolute;
+right: 0;
+bottom: 0;
+}
+
+div.portraitphotos{
+border: solid 10px black;
+position: relative;
+width: 80%;
+margin: auto;
+}
+
+.portrait01{
+height: 600px;
+border:solid 8px #fafbff;
+border-radius: 10px;
+position: absolute;
+left: 0;
+top: 0;
+}
+
+.portrait02{
+height: 600px;
+border:solid 8px #fafbff;
+border-radius: 10px;
+position: absolute;
+
+top: 0px;
+}
+
+.portrait03{
+height: 600px;
+border:solid 8px #fafbff;
+border-radius: 10px;
+position: absolute;
+right: 0;
+top: 0;
+}
+
+div.pageselect{
+position: fixed;
+top: 50px;
+left: 50%;
+transform: translate(-50%, -50%);
+width: 500;
+background-color:#fafbff;
+border-radius: 15px;
+}
+
+button{
+background-color:#fafbff;
+	color: #616161;
+	border: solid 0px #616161;
+	margin-left: 20px;
+	margin-right: 20px;
+	padding: 0, 15px, 0, 15px;
+}
+
+div.videos{
+width: 1000px;
+border: solid, 10px, black;
+position: relative;
+width: 80%;
+margin: auto;
+margin-top: 50px;
+}
+
+.video1{
+width: 600px;
+margin: 10, 10, 10, 10;
+position: absolute;
+left: 0;
+top: 0;
+}
+
+.video2{
+width: 600px;
+margin: 10, 10, 10, 10;
+position: absolute;
+right: 0;
+top: 0;
+}
+
+.video3{
+width: 600px;
+margin: 10, 10, 10, 10;
+position: absolute;
+left: 0;
+top: 400px;
+}
+
+.video4{
+width: 600px;
+margin: 10, 10, 10, 10;
+position: absolute;
+right: 0;
+top: 400px;
+}
+
+.video5{
+width: 600px;
+margin: 10, 10, 10, 10;
+position: absolute;
+left: 0;
+top: 800px;
+}
+
+div.footer{
+position: absolute;
+bottom: -1400px;
+background-color: #fafbff;
+text-align: center;
+padding: 100px 100px 50px 100px;
+color: #616161;
+margin: auto;
+width: 87%;
+}
